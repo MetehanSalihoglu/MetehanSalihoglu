@@ -7,9 +7,9 @@
 Hello friend, <br> <br> I have been working on cybersecurity topics for a short time and developing projects.
 
 <br>
-<br>
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/metehansalihoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-saliho%C4%9Flu-487840318) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/metehansalihoglu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-saliho%C4%9Flu-487840318) 
 <br><br><br>
 ## 💻TECH 
 <br>
